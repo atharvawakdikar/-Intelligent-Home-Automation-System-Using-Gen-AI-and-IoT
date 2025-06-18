@@ -1,11 +1,13 @@
 Intelligent Home Automation System Using Gen AI and IoT
 
 **Overview**
+
 This project presents an Intelligent Home Automation System that integrates Generative AI (Gen AI) and Internet of Things (IoT) technologies to deliver a personalized energy management solution aimed at reducing household carbon footprints while enhancing comfort and sustainability.
 
 By leveraging ESP8266 microcontrollers, environmental sensors (temperature, humidity, light, and motion), and a cloud platform (ThingSpeak), the system gathers real-time data, predicts energy needs using Gen AI, and automates appliance control — notably lighting — to minimize energy consumption.
 
 **Key Features**
+
 🔌 IoT-based Environmental Monitoring
 Real-time data acquisition from DHT11 (temperature & humidity), light sensors, and motion detectors.
 
@@ -25,6 +27,7 @@ Reduces unnecessary energy use, promoting eco-friendly practices and cutting car
 Future-ready design for integration with renewable energy sources (e.g., solar panels) and additional appliances (e.g., fans, ACs).
 
 **Project Files**
+
 📄 Project Synopsis – High-level project overview, aims, objectives, and proposed work.
 
 📄 Project Report – Detailed mini-project report including literature review, methodology, results, and conclusions.
@@ -42,6 +45,7 @@ Future-ready design for integration with renewable energy sources (e.g., solar p
 📄 User Manual – Guide for setup, usage, and maintenance (if applicable to your specific implementation).
 
 **System Requirements**
+
 **Hardware**:
 
 ESP8266 microcontroller
@@ -63,14 +67,17 @@ Gen AI models for behavioral learning
 Supporting backend (e.g., Python, MATLAB, or compatible platform)
 
 **Setup & Usage**
+
 1️⃣ Connect IoT sensors to the ESP8266 microcontroller as per the provided circuit diagram.
 2️⃣ Deploy Gen AI models to analyze data and predict user behavior.
 3️⃣ Integrate with ThingSpeak for real-time data visualization and control.
 4️⃣ Access and interact with the system via the ThingSpeak dashboard or your custom user interface.
 
 **Contribution**
+
 Contributions to enhance scalability (e.g., renewable integration, additional appliances, advanced AI analytics) are welcome!
 
 **License**
+
 © 2024 S.B. Jain Institute of Technology, Management & Research.
 This project is academic in nature and shared for educational purposes.

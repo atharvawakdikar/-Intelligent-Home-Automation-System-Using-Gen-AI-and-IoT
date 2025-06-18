@@ -81,3 +81,7 @@ Contributions to enhance scalability (e.g., renewable integration, additional ap
 
 © 2024 S.B. Jain Institute of Technology, Management & Research.
 This project is academic in nature and shared for educational purposes.
+
+**Acknowledgments**
+
+We would like to thank our guide, Prof. Yogesh Narekar, and our institution for their support and guidance throughout this project.
